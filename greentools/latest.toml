@@ -1,3 +1,3 @@
-version = "v1.0.0"
-path    = "greentools/v1.0.0/GreenTools.dll"
-sha256  = "6127726da144b93cb65428dbe938b5f61679825210a9a024ab5dbb9ae458cd6e"
+version = "v1.0.1"
+path    = "greentools/v1.0.1/GreenTools.dll"
+sha256  = "6f60d4e5718208de9f7e445e4d68d46f36b56487d80ccb7f0b966fc2813fec76"
